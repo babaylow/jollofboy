@@ -1768,6 +1768,7 @@ color: aliceblue;
     
     .vals{
         width:350px;
+        left:-3rem;
     }
     
     .vals p{
@@ -1832,7 +1833,7 @@ color: aliceblue;
     
 
     .contact{
-        top:30rem;
+        top:70rem;
         height:150px;
     }
     
@@ -1854,7 +1855,7 @@ color: aliceblue;
     }
    
     .footer{
-        top:30rem;
+        top:70rem;
         font-size: .8rem;
     }
     

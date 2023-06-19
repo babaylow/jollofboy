@@ -1371,13 +1371,13 @@
         position: relative;
         top:1rem;
         width:350px;
-        left:-2rem;
+        left:2rem;
     }
     
     .division p{
         width:350px;
         top:0rem;
-        left:-2rem;
+        left:2rem;
     }
     
     
@@ -1393,7 +1393,7 @@
     
     .projects p{
         width: 350px;
-        left:-2rem;
+        left:2rem;
     }
     
     .projects img{
