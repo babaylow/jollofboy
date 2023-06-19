@@ -1976,21 +1976,21 @@ width:100%;
     
     .header2 img{
         width:60px;
-        left:3rem;
+        left:2rem;
         border-radius: 50%;
     }
     
     .header2 a{
         text-decoration: none;
         padding:0 1rem;
-        font-size: .5rem;
+        font-size: 9px;
         transition: .3s;
     }
 
     .navlinks{
         display:flex;
         width:100%;
-        right:2rem;
+        right:1rem;
         position: relative;
     }
     
@@ -2004,7 +2004,7 @@ width:100%;
         letter-spacing: 1px;
         align-items: center;
         display: flex;
-        right: .9rem;
+        right: .2rem;
 
     }
     
@@ -2096,7 +2096,7 @@ width:100%;
         padding-bottom: 2rem;
         font-size: 1.4rem;
         width:500px;
-        left:0rem;
+        left:-1rem;
         position: relative;
     }
     
