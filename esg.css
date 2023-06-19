@@ -1550,7 +1550,7 @@
     .navbar a{
         padding:0rem;
         font-size: 10px;
-        left:5rem;
+        right:1rem;
         width:100%;
     }
 
@@ -1647,7 +1647,7 @@
     width:60%;
     font-size: 2rem;
     top:2rem;
-    left:3rem;
+    left:4rem;
 }
 
 .safety{
@@ -1656,7 +1656,7 @@
 }
 
 .safety img{
-    left:-1rem;
+    left:1rem;
     width:350px;
     
 }
@@ -1672,7 +1672,7 @@
 .safety p{
     font-size: 1.2rem;
     width:350px;
-    left:-2px;
+    left:0px;
 }
 
 
@@ -1727,8 +1727,8 @@
 
 .slavery h2{
     position: relative;
-    width:400px;
-    left:3rem;
+    width:350px;
+    left:0rem;
 }
 
 .slavery p{
